@@ -1,0 +1,44 @@
+.store{
+    height: 700px;
+    width: 1000px;
+    margin:0 auto;
+}
+.header{
+    margin-left:25px;
+    margin-bottom:15px;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #515769; 
+}
+
+
+
+.item {
+    height: 300px;
+    width: 250px;
+    display: inline-block;
+    margin: 25px;
+}
+
+.item img{
+    width: inherit; 
+}
+
+
+.item h2{
+    margin-bottom: 20px;
+ 
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #515769; 
+   
+}
+
+.item p{
+    margin-bottom:20px;
+    font-family: sans-serif;
+    font-size: 15px;
+    line-height: 20px; 
+    color: #515769;  ;
+}
+
